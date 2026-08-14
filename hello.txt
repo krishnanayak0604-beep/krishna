@@ -1,2 +1,3 @@
 hello,my name is krishna.
 i am learing github.
+i am learing github step by step  
